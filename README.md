@@ -1,3 +1,2 @@
-# Sales_forecasting_using_reviews_historical_data
+# Sales_forecasting_using_reviews_and_historical_data
 
-- This is a multivariate forecasting.
